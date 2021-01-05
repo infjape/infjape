@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.906c0665.chunk.css",
-    "main.js": "/static/js/main.1ac090d1.chunk.js",
-    "main.js.map": "/static/js/main.1ac090d1.chunk.js.map",
+    "main.css": "/static/css/main.6c4b746a.chunk.css",
+    "main.js": "/static/js/main.1aaf6582.chunk.js",
+    "main.js.map": "/static/js/main.1aaf6582.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18b9ef58.js",
     "runtime-main.js.map": "/static/js/runtime-main.18b9ef58.js.map",
     "static/js/2.89b40d92.chunk.js": "/static/js/2.89b40d92.chunk.js",
     "static/js/2.89b40d92.chunk.js.map": "/static/js/2.89b40d92.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.906c0665.chunk.css.map": "/static/css/main.906c0665.chunk.css.map",
+    "static/css/main.6c4b746a.chunk.css.map": "/static/css/main.6c4b746a.chunk.css.map",
     "static/js/2.89b40d92.chunk.js.LICENSE.txt": "/static/js/2.89b40d92.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.4bed3c44.jpg",
     "static/media/10.jpg": "/static/media/10.8d624608.jpg",
@@ -82,6 +82,7 @@
     "static/media/8e7de7a3e0c2c6490ca55a476d64fc56.jpg": "/static/media/8e7de7a3e0c2c6490ca55a476d64fc56.38c731b6.jpg",
     "static/media/9.jpg": "/static/media/9.62493b76.jpg",
     "static/media/STRAWHATS.jpg": "/static/media/STRAWHATS.8be91f0c.jpg",
+    "static/media/stylesheet.css": "/static/media/Ubuntu-Regular.f20e45a9.woff",
     "static/media/ace-e-yamato-tiverum-um-caso.jpg": "/static/media/ace-e-yamato-tiverum-um-caso.12ca0b81.jpg",
     "static/media/anti-parasita-objetivismo-ayn-rand.jpg": "/static/media/anti-parasita-objetivismo-ayn-rand.8d08627b.jpg",
     "static/media/automatizar.jpg": "/static/media/automatizar.a6a31048.jpg",
@@ -104,7 +105,7 @@
   "entrypoints": [
     "static/js/runtime-main.18b9ef58.js",
     "static/js/2.89b40d92.chunk.js",
-    "static/css/main.906c0665.chunk.css",
-    "static/js/main.1ac090d1.chunk.js"
+    "static/css/main.6c4b746a.chunk.css",
+    "static/js/main.1aaf6582.chunk.js"
   ]
 }
